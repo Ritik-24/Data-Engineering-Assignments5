@@ -1,4 +1,4 @@
-# Week 5: Apache Spark Fundamentals & Data Processing
+# Apache Spark Fundamentals & Data Processing
 
 This repository contains the theory and practical implementation focusing on Apache Spark fundamentals, data cleaning, transformations, and aggregation pipelines using PySpark.
 
