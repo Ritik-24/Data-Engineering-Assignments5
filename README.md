@@ -2,12 +2,14 @@ This repository contains the complete documentation and code developed during my
 
 Project Structure:
 
-WEEK 1: Initial data ingestion and cleaning processes.
+WEEK 1: Python Basics
 
-WEEK 2: Intermediate SQL queries and data manipulation.
+WEEK 2: SQL Basics
 
-WEEK 3: Advanced transformations and analytical query implementation.
+WEEK 3: Subqueries
 
-WEEK 4: Data pipeline development and Azure integration.
+WEEK 4: Data Engineering Concepts
 
-WEEK 5: Final analysis, reporting, and project consolidation.
+WEEK 5: Data Cleaning
+
+WEEK 6: Spark Intro
