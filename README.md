@@ -13,3 +13,5 @@ WEEK 4: Data Engineering Concepts
 WEEK 5: Data Cleaning
 
 WEEK 6: Spark Intro
+
+WEEK 7: DATABRICKS
