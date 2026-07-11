@@ -1,4 +1,4 @@
-This repository contains the complete documentation and code developed during my 5-week data engineering internship with Celebal Technologies.
+This repository contains the complete documentation and code developed during my 8-week data engineering internship with Celebal Technologies.
 
 Project Structure:
 
@@ -15,3 +15,5 @@ WEEK 5: Data Cleaning
 WEEK 6: Spark Intro
 
 WEEK 7: DATABRICKS
+
+PROJECT: Customer Support ticket pipeline resolution
