@@ -1,0 +1,11 @@
+      DATA CLEANING & QUALITY REPORT          
+    Dataset                                  Issue Type  Records Affected
+  Customers                      Duplicate Rows Dropped                50
+  Customers     Invalid Emails Identified (Missing '@')                10
+  Customers                   Missing/Null Emails Found                15
+   Products         Messy/Improperly Spaced Names Fixed                81
+     Orders                     Invalid Dates Corrected                20
+     Orders Mismatched String Date Formats Standardized                20
+     Orders        Missing Customer Linkages (NULL IDs)                51
+Order Items    Return Line Items Tracked (Negative Qty)               121
+Order Items      Referential Integrity Breaches Dropped                20
