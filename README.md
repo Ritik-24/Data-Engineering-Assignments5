@@ -16,4 +16,6 @@ WEEK 6: Spark Intro
 
 WEEK 7: DATABRICKS
 
+WEEK 8: E-Commerce Order Analytics System
+
 PROJECT: Customer Support ticket pipeline resolution
